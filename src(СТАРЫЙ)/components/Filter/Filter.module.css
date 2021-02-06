@@ -1,0 +1,11 @@
+.label {
+  padding-left: 6px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.input {
+  margin-top: 10px;
+  width: 300px;
+}

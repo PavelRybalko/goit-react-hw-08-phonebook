@@ -1,0 +1,12 @@
+.ContactList__item {
+  text-align: center;
+}
+
+.ContactList__text {
+  padding: 6px 0px;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 24px;
+  margin-left: 24px;
+  font-size: 18px;
+}

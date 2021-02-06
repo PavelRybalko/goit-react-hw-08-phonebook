@@ -1,0 +1,14 @@
+.title {
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.ContactList {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.loading {
+  color: green;
+}

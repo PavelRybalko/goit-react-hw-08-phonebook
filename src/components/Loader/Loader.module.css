@@ -1,0 +1,10 @@
+.spinner {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.title {
+  margin-left: 20px;
+  font-size: 20px;
+  color: green;
+}
